@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Animal Lovers Community",
+      "imageUrl": "https://example.com/animal-lovers.jpg",
+      "description": "Tempat berkumpul para pecinta hewan untuk berbagi pengalaman dan cinta terhadap binatang.",
+      "userId": 1
+    },
+    {
+      "name": "Pet Enthusiasts Club",
+      "imageUrl": "https://example.com/pet-enthusiasts.jpg",
+      "description": "Komunitas untuk pecinta hewan peliharaan, dari kucing hingga anjing dan hewan peliharaan lainnya.",
+      "userId": 2
+    },
+    {
+      "name": "Wildlife Conservation Society",
+      "imageUrl": "https://example.com/wildlife-conservation.jpg",
+      "description": "Bergabunglah dalam upaya pelestarian alam dan perlindungan satwa liar di seluruh dunia.",
+      "userId": 3
+    }
+  ]

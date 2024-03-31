@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Mengagumi Keindahan Alam",
+      "imageUrl": "https://example.com/nature-beauty.jpg",
+      "userId": 2,
+      "message": "Hari ini saya pergi ke kebun binatang dan terpesona dengan keindahan alam dan keunikkan setiap hewan. Berbagi foto-foto keseruan saya di sana!",
+      "CommunityId":2
+    },
+    {
+      "title": "Hewan Peliharaan Terbaru",
+      "imageUrl": "https://example.com/new-pet.jpg",
+      "userId": 1,
+      "message": "Sambutlah anggota baru keluarga kami, si kucing lucu bernama Whiskers! Ceritakan pengalaman kalian dengan hewan peliharaan.",
+      "CommunityId":1
+    },
+    {
+      "title": "Ekspedisi Satwa Liar",
+      "imageUrl": "https://example.com/wildlife-expedition.jpg",
+      "userId": 3,
+      "message": "Menelusuri hutan belantara untuk melihat satwa liar dalam habitat alaminya. Pengalaman tak terlupakan yang ingin saya bagi dengan kalian semua.",
+      "CommunityId":3
+    }
+]
